@@ -17,5 +17,5 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@somfist"><img src="https://img.shields.io/badge/eundol1113-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp
+  <a href="https://velog.io/@somfist"><img src="https://img.shields.io/badge/somfist-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp
 </p>
