@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi! I'm SomFist&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I'm%20SomFist!&fontSize=90)
 
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
