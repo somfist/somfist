@@ -17,5 +17,10 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@somfist"><img src="https://img.shields.io/badge/somfist-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp
+  <a href="https://velog.io/@somfist"><img src="https://img.shields.io/badge/somfist-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>
+</p>
+
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somfist&count_private=true&show_icons=true&theme=onedark)]
 </p>
