@@ -22,5 +22,5 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=somfist&count_private=true&show_icons=true&theme=onedark)
+  [![SomFist's GitHub stats](https://github-readme-stats.vercel.app/api?username=somfist&count_private=true&show_icons=true&theme=onedark)](https://github.com/somfist)
 </p>
