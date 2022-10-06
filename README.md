@@ -20,7 +20,9 @@
   <a href="https://velog.io/@somfist"><img src="https://img.shields.io/badge/somfist-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>
 </p>
 
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <p align="center">
-  [![SomFist's GitHub stats](https://github-readme-stats.vercel.app/api?username=somfist&count_private=true&show_icons=true&theme=onedark)](https://github.com/somfist)
+  [![SomFist's GitHub stats](https://github-readme-stats.vercel.app/api?username=somfist&count_private=true&show_icons=true&theme=dracula)](https://github.com/somfist)
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somfist&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 </p>
