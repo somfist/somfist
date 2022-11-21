@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I'm%20SomFist!&fontSize=90)
 
-<h3 align="center">👋 It's me! 👋</h3>
+<!-- <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
   <b>Front-end Developer</b> 👩‍💻 <br>
   <b>노력하는 / 문제 해결을 즐기는 / 새로운 지식을 갈망하는</b> 🤞
-</p>
+</p> -->
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
