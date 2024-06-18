@@ -16,9 +16,9 @@
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
-<p align="center">
+<!-- <p align="center">
   <a href="https://velog.io/@somfist"><img src="https://img.shields.io/badge/somfist-5FCA8B?style=flat-square&logo=velog&logoColor=white"/></a>
-</p>
+</p> -->
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
